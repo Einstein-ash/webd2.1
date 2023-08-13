@@ -26,10 +26,10 @@ export default function Home() {
         </div>
             <TabLinks />
             <UpcomingWorkshops />
-            
+
             {/* <Contact /> */}
 
-            {/* <Footer /> */}
+            <Footer />
             <StarsCanvas />
           </div>
       </div>
